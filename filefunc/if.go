@@ -1,4 +1,4 @@
-package fileFunc
+package filefunc
 
 import (
 	"os"

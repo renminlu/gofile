@@ -1,4 +1,4 @@
-package readLines
+package readline
 
 import (
 	"bufio"

@@ -1,4 +1,4 @@
-package writeLines
+package writeline
 
 import (
 	"github.com/renminlu/goconst"
